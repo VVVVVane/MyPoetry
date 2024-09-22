@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="MyPoetry/App.axaml" value="MyPoetry/MyPoetry.csproj" />
+        <entry key="MyPoetry/Views/MainWindow.axaml" value="MyPoetry/MyPoetry.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
